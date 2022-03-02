@@ -12,3 +12,4 @@
 
 ![This is an image](https://github.com/Matyas92/pic/blob/main/exCha.jpg)
 
+![This is an image](https://github.com/Matyas92/pic/blob/main/newsExchange.png)
