@@ -1,4 +1,4 @@
-# Crypto currency exchange App with React
+# Crypto currency exchange App with React.js
 
 - Bitcoing, Litecoing, Etherum, Cardano, - and more - currency converter 
 
